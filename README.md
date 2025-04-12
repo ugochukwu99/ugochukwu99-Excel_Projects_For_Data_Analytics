@@ -1,5 +1,5 @@
 # 📊 B&J Biscuit Business Analysis
-image
+![](intro_image.png)
 
 ## Project Overview
 
