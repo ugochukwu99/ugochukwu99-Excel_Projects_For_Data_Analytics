@@ -54,6 +54,7 @@ This project was designed to answer the following strategic questions and provid
 
   - *By Age Group:*  
     ![]( Revenue_by_Age_Group.png)
+    This visual shows the current profit margin of the business in real-time. The gauge changes dynamically based on the latest data.
  
  - *By Gender:*  
     ![](Revenue_by_Gender_1.png)
@@ -67,6 +68,23 @@ _The line chart reveals trends over time for revenue generation by age group and
 2. **Chart:** showing profitability across different brands, locations, customers, and salespeople.
    ![](Profitability_trend.png)
  _The chart shows which entities are contributing the most to profitability. You can use slicers to filter by location or brand to drill down into specific areas._
+
+3. - **Chart:** Gauge chart displaying the overall profit margin.
+   -  ![](Profit_Margin.png)
+   
+   _This visual shows the current profit margin of the business in real-time. The gauge changes dynamically based on the latest data._
+
+
+4. **Chart:** Table or bar chart highlighting the top 5 customers.
+
+    ![](Top_Customers.png)
+
+   _The table lists the top customers based on their revenue contribution, helping to identify key clients._
+
+6. **Chart:** Map chart or bar chart showing revenue distribution by location.
+   ![](Revenue_By_Geographic_location.png)
+
+   ** This visual presents revenue share by geographic regions.             
 
 
 
