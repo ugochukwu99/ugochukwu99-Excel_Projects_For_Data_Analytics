@@ -84,8 +84,12 @@ _The line chart reveals trends over time for revenue generation by age group and
 6. **Chart:** Map chart or bar chart showing revenue distribution by location.
    ![](Revenue_By_Geographic_location.png)
 
-   ** This visual presents revenue share by geographic regions.             
+   ** This visual presents revenue share by geographic regions.
 
+7. **Chart:** Multi-metric dashboard with KPIs for quantity sold, total revenue, COGS, and profit.
+    ![](Sales_Performance.png)
+
+    _This dashboard section aggregates key metrics for sales performance, allowing users to assess the health of the business at a glance. Slicers help filter by time periods, products, or other relevant categories._
 
 
 
