@@ -9,27 +9,6 @@ This project features a comprehensive set of Excel dashboards developed for B&J 
 
 _This project uses data I obtained through the YouTube channel DataWithDecision365 to carry out a detailed business analysis for B&J Biscuit._ 
 
-## Problem Statement
-This project was designed to answer the following strategic questions and provide actionable business insights:
-
-- **Revenue Distribution:**
-  - How is revenue distributed across high-priced and low-priced products?
-  - What revenue trends exist across age groups and gender?
-  - Which payment methods generate the most revenue?
-
-- **Profitability:**
-  - Which brand, location, customer, and salesperson generate the most profit?
-  - What is the overall profit margin of the business?
-
-- **Customer Insights:**
-  - Who are the top 5 customers by revenue contribution?
-  - What is the total number of customers acquired?
-
-- **Geographic Revenue Distribution:**
-  - What is the revenue share across key geographic locations?
-
-- **Sales Performance:**
-  - Show the key metrics such as quantity sold, total revenue, total cost of goods sold (COGS), and total profit.
 
 ## Tools & Features Used
 
@@ -46,4 +25,7 @@ This project was designed to answer the following strategic questions and provid
 
 ## 🧭 Project Navigation
 
-- 📈 [Business Questions & Analysis](docs/analysis-answers.md)
+- 📈 [Business Questions & Analysis](docs/analysis-answers.md
+-  📊 [Dashboard 1: Sales Performance](docs/dashboard1.md)
+-  ⏱️ [Dashboard 2: Time-Based Revenue Trends](docs/dashboard2.md)
+
