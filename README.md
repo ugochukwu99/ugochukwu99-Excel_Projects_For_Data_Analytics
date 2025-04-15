@@ -26,6 +26,6 @@ _This project uses data I obtained through the YouTube channel DataWithDecision3
 ## 🧭 Project Navigation
 
 - 📈 [Business Questions & Analysis](docs/analysis-answers.md)
--  📊 ![Dashboard Screenshot](screenshots/Final_Dashboard_1.png)
--  ⏱️ ![Dashboard Screenshot](screenshots/Final_Dashboard_2.png)
+- 📊 [![Dashboard Screenshot](screenshots/Final_Dashboard_1.png)](screenshots/Final_Dashboard_1.png)
+- ⏱️ [![Dashboard Screenshot](screenshots/Final_Dashboard_2.png)](screenshots/Final_Dashboard_2.png)
 
