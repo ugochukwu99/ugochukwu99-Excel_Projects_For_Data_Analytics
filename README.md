@@ -25,7 +25,7 @@ _This project uses data I obtained through the YouTube channel DataWithDecision3
 
 ## 🧭 Project Navigation
 
-- 📈 ![Business Questions & Analysis](docs/analysis-answers.md)
--  📊 ![Dashboard 1: Sales Performance](docs/dashboard1.md)
+- 📈 [Business Questions & Analysis](docs/analysis-answers.md)
+-  📊 ![Dashboard Screenshot](docs/images/dashboard1.png)
 -  ⏱️ ![Dashboard 2: Time-Based Revenue Trends](docs/screenshots/dashboard2.md)
 
