@@ -29,19 +29,23 @@ This project aims to deliver actionable business insights by addressing the foll
 ### 1. 💰 Revenue Distribution
 
 **📈 Chart: Revenue by Product Price Category**  
-![Revenue by Price Category](insert-link-here)  
+![](../screenshots/Price_Category.png)
+
 This bar chart displays revenue distribution between high-priced and low-priced products, offering a clear view of each segment's sales contribution.
 
 **👥 Chart: Revenue by Age Group**  
-![Revenue by Age Group](insert-link-here)  
+![](../screenshots/Revenue_by_Age_Group.png)
+
 A line chart showing revenue trends across different age groups. Use filters to isolate specific age brackets or time periods.
 
 **🚻 Chart: Revenue by Gender**  
-![Revenue by Gender](insert-link-here)  
+![](../screenshots/Revenue_by_Gender_1.png) 
+
 This line chart highlights gender-based revenue trends. Demographic filters help tailor the analysis for targeted insights.
 
 **💳 Chart: Revenue by Payment Method**  
-![Revenue by Payment Method](insert-link-here)  
+![](../screenshots/Revenue_by_Payment_Method_1.png)
+
 A breakdown of total revenue by payment type. This helps identify which payment channels are most commonly used by customers.
 
 ---
@@ -49,7 +53,7 @@ A breakdown of total revenue by payment type. This helps identify which payment 
 ### 2. 📈 Profitability Analysis
 
 **🏷️ Chart: Profitability by Brand, Location, Customer, and Salesperson**  
-![Profitability Trend](insert-link-here)  
+ ![](../screenshots/Profitability_trend.png)
 This visual pinpoints who or what is driving profitability. Slicers allow users to drill down into specifics like brand or region.
 
 ---
@@ -57,7 +61,7 @@ This visual pinpoints who or what is driving profitability. Slicers allow users 
 ### 3. 📊 Overall Profit Margin
 
 **📟 Chart: Profit Margin Gauge**  
-![Profit Margin](insert-link-here)  
+![](../screenshots/Profit_Margin.png)
 A dynamic gauge chart displaying real-time profit margin, providing quick insight into business health.
 
 ---
@@ -65,7 +69,7 @@ A dynamic gauge chart displaying real-time profit margin, providing quick insigh
 ### 4. 🏆 Top Customers
 
 **👑 Chart: Top 5 Customers by Revenue**  
-![Top Customers](insert-link-here)  
+![](../screenshots/Top_Customers.png) 
 This table or bar chart ranks the top 5 customers by their revenue contribution, highlighting key clients.
 
 ---
@@ -73,7 +77,7 @@ This table or bar chart ranks the top 5 customers by their revenue contribution,
 ### 5. 🌍 Geographic Revenue Distribution
 
 **🗺️ Chart: Revenue by Geographic Location**  
-![Revenue by Location](insert-link-here)  
+![](../screenshots/Revenue_By_Geographic_location.png)
 A map or bar chart showing how revenue is distributed across different regions or cities.
 
 ---
@@ -81,5 +85,5 @@ A map or bar chart showing how revenue is distributed across different regions o
 ### 6. 📌 Sales Performance KPIs
 
 **📊 Chart: Sales Dashboard (Quantity Sold, Revenue, COGS, Profit)**  
-![Sales Performance](insert-link-here)  
+![](../screenshots/Sales_Performance.png)
 This dashboard aggregates key performance metrics to give a snapshot of overall sales performance. Filters allow dynamic exploration of data over time, by product, or category.
