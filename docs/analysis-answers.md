@@ -31,7 +31,15 @@ This project aims to deliver actionable business insights by addressing the foll
 **📈 Chart: Revenue by Product Price Category**  
 ![](../screenshots/Price_Category.png)
 
-This bar chart displays revenue distribution between high-priced and low-priced products, offering a clear view of each segment's sales contribution.
+Revenue Concentration: High-priced products account for approximately 90% of total revenue ($55.21M), driven by premium pricing (e.g., Shortbread at $45, Vanilla Wafers at $36) and strong demand.
+
+Lower-Priced Segment: Lower-cost items contribute about 10% ($6.35M), with prices ranging from $5–$9. Their affordability supports high transaction volume and attracts price-sensitive customers.
+
+Business Implications:
+The company’s revenue is heavily dependent on premium products, highlighting their profitability. However, lower-priced items play a key role in customer acquisition and broadening market reach.
+
+Strategic Opportunity: While premium products remain the revenue core, promoting high-margin, lower-priced items (e.g., Lemon Crisps with ~22% margin) could enhance profitability without compromising volume.
+
 
 **👥 Chart: Revenue by Age Group**  
 ![](../screenshots/Revenue_by_Age_Group.png)
