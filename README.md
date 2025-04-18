@@ -28,5 +28,6 @@ _This project uses data I obtained through the YouTube channel DataWithDecision3
 - 📈 [Business Questions & Analysis](docs/analysis-answers.md)
 - 📊 [Dashboard 1: Sales Performance Overview](docs/dashboard1.md)
 - ⏱️ [Dashboard 2: Time-Based Revenue Trends](docs/dashboard2.md)
-
+- 🧠 [Final Project: Insightful Analysis](docs/final_project)
+- 📁 [Dataset](docs/Dataset)
 
