@@ -31,10 +31,10 @@ This project aims to deliver actionable business insights by addressing the foll
 **📈 Chart: Revenue by Product Price Category**  
 ![](../screenshots/Price_Category.png)
 
-Revenue Concentration: High-priced products account for approximately 90% of total revenue ($55.21M), driven by premium pricing (e.g., Shortbread at $45, Vanilla Wafers at $36) and strong demand.
+Insights:
+High-priced products account for approximately 90% of total revenue ($55.21M), driven by strong demand and premium pricing (e.g., Shortbread at $45, Vanilla Wafers at $36). This highlights the company’s reliance on a smaller range of high-value items for the bulk of its income.
 
-Lower-Priced Segment: Lower-cost items contribute about 10% ($6.35M), with prices ranging from $5–$9. Their affordability supports high transaction volume and attracts price-sensitive customers.
-
+In contrast, lower-cost items contribute around 10% ($6.35M), with prices between $5 and $9. While their individual margins are lower, their high sales volume indicates strong appeal among price-sensitive customers, supporting broader market reach and customer acquisition.
 Business Implications:
 The company’s revenue is heavily dependent on premium products, highlighting their profitability. However, lower-priced items play a key role in customer acquisition and broadening market reach.
 
