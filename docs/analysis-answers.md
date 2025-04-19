@@ -44,9 +44,9 @@ Strategic Opportunity: While premium products remain the revenue core, promoting
 
 **👥 Chart: Revenue by Age Group**  
 ![](../screenshots/real_age_group.png)
+
+
 A line chart showing revenue trends across different age groups. Use filters to isolate specific age brackets or time periods.
-
-
 
 Insights:
 
