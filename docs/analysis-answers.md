@@ -32,6 +32,7 @@ This project aims to deliver actionable business insights by addressing the foll
 ![](../screenshots/Price_Category.png)
 
 Insights:
+
 High-priced products account for approximately 90% of total revenue ($55.21M), driven by strong demand and premium pricing (e.g., Shortbread at $45, Vanilla Wafers at $36). This highlights the company’s reliance on a smaller range of high-value items for the bulk of its income.
 
 In contrast, lower-cost items contribute around 10% ($6.35M), with prices between $5 and $9. While their individual margins are lower, their high sales volume indicates strong appeal among price-sensitive customers, supporting broader market reach and customer acquisition.
@@ -42,9 +43,16 @@ Strategic Opportunity: While premium products remain the revenue core, promoting
 
 
 **👥 Chart: Revenue by Age Group**  
-![](../screenshots/Revenue_by_Age_Group.png)
-
+![](../screenshots/real_age_group.png)
 A line chart showing revenue trends across different age groups. Use filters to isolate specific age brackets or time periods.
+
+Insights:
+
+Top Contributors (Ages 30–74):
+This group drives over 71.5% of revenue, with 60–74 slightly leading. They are the company’s core customer base.
+
+Young Shoppers (15–29):
+Contributing 19.44%, this group shows potential for long-term growth and brand loyalty despite lower current spend.
 
 **🚻 Chart: Revenue by Gender**  
 ![](../screenshots/Revenue_by_Gender_1.png) 
@@ -54,7 +62,8 @@ This line chart highlights gender-based revenue trends. Demographic filters help
 **💳 Chart: Revenue by Payment Method**  
 ![](../screenshots/Revenue_by_Payment_Method_1.png)
 
-A breakdown of total revenue by payment type. This helps identify which payment channels are most commonly used by customers.
+The revenue distribution across payment methods reveals a tightly contested landscape, with no single method dominating. Debit Cards lead slightly, accounting for 25.4% of total revenue, or approximately $15.62 million, suggesting a mild preference for direct bank transactions. Close behind are Mobile Payments at 25.11% ($15.46 million), reflecting growing adoption of digital wallets and tech-savvy customer behavior. Credit Cards and Cash follow closely at 24.77% and 24.75%, respectively, with Cash bringing in the lowest total revenue of around $15.24 million. The narrow range between the highest and lowest contributors—just about $382,000 or 0.62%—highlights the diverse and balanced payment preferences among customers, though the slightly lower share of Cash may point to a gradual shift away from physical currency.
+
 
 ---
 
