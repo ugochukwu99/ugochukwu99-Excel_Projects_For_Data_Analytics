@@ -59,6 +59,8 @@ Contributing 19.44%, this group shows potential for long-term growth and brand l
 **🚻 Chart: Revenue by Gender**  
 ![](../screenshots/Revenue_by_Gender_1.png) 
 
+
+
 This line chart highlights gender-based revenue trends. Demographic filters help tailor the analysis for targeted insights.
 
 **💳 Chart: Revenue by Payment Method**  
@@ -73,6 +75,7 @@ The revenue distribution across payment methods reveals a tightly contested land
 
 **🏷️ Chart: Profitability by Brand, Location, Customer, and Salesperson**  
  ![](../screenshots/Profitability_trend.png)
+
 This visual pinpoints who or what is driving profitability. Slicers allow users to drill down into specifics like brand or region.
 
 ---
@@ -81,6 +84,7 @@ This visual pinpoints who or what is driving profitability. Slicers allow users 
 
 **📟 Chart: Profit Margin Gauge**  
 ![](../screenshots/Profit_Margin.png)
+
 A dynamic gauge chart displaying real-time profit margin, providing quick insight into business health.
 
 ---
@@ -89,6 +93,7 @@ A dynamic gauge chart displaying real-time profit margin, providing quick insigh
 
 **👑 Chart: Top 5 Customers by Revenue**  
 ![](../screenshots/Top_Customers.png) 
+
 This table or bar chart ranks the top 5 customers by their revenue contribution, highlighting key clients.
 
 ---
@@ -97,6 +102,7 @@ This table or bar chart ranks the top 5 customers by their revenue contribution,
 
 **🗺️ Chart: Revenue by Geographic Location**  
 ![](../screenshots/Revenue_By_Geographic_location.png)
+
 A map or bar chart showing how revenue is distributed across different regions or cities.
 
 ---
@@ -105,4 +111,5 @@ A map or bar chart showing how revenue is distributed across different regions o
 
 **📊 Chart: Sales Dashboard (Quantity Sold, Revenue, COGS, Profit)**  
 ![](../screenshots/Sales_Performance.png)
+
 This dashboard aggregates key performance metrics to give a snapshot of overall sales performance. Filters allow dynamic exploration of data over time, by product, or category.
